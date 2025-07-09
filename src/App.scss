@@ -1,0 +1,339 @@
+@import './assets/sass/variables';
+@import 'react-big-calendar/lib/sass/styles';
+@import 'react-big-calendar/lib/addons/dragAndDrop/styles';
+@font-face {
+    font-family: 'Acme Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Acme Regular'), url('./assets/fonts/Acme/Acme-Regular.ttf') format('woff');
+}
+.App {
+  text-align: center; }
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none; }
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear; } }
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white; }
+
+.App-link {
+  color: #61dafb; }
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg); }
+  to {
+    transform: rotate(360deg); } }
+
+.acme {
+  font-family: "Acme Regular" !important; }
+  body,
+  html {
+      font-family: "Acme Regular", Roboto, Helvetica, sans-serif;
+  
+      /* 👇️ or use Operating system default fonts 👇️ */
+      /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif; */
+  }
+  body{
+      margin: 0;
+  }
+  .login-form {
+  max-width: 300px;
+  }
+  .login-form-forgot {
+  float: right;
+  }
+  .login-form-button {
+  width: 100%;
+  }
+  .logo-sider{
+      font-size: 100px;
+      font-family: 'Acme Regular', sans-serif;
+  }
+  .events {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    .events .ant-badge-status {
+      width: 100%;
+      overflow: hidden;
+      font-size: 12px;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+    }
+    .notes-month {
+      font-size: 28px;
+      text-align: center;
+    }
+    .notes-month section {
+      font-size: 28px;
+    }
+    .scheduler_white_selected .scheduler_white_event_inner
+    {
+      background: #2e78d6;
+    }
+
+    .calendar_default_event.selected-event .calendar_default_event_inner{ 
+      background: #2e78d6;
+    }
+
+    .calendar_default_event_bar{
+      background: transparent;
+    }
+
+    .calendar_default_event_bar_inner{
+      height: 100% !important;
+      top: 0 !important
+    }
+
+    /* Waiting Room Styles */
+    .room-panel-primary{
+      box-sizing: border-box;
+      position: absolute;
+      width: 100%;
+      height: 250px;
+      top: 8px;
+      background: #9ED2F8;
+      border: 1px solid #9ED2F8;
+      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+      border-radius: 5px;
+      overflow-y: scroll;
+    }
+    .room-panel-secondary{
+      box-sizing: border-box;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      top: 8px;
+      background: #012051;
+      border: 1px solid #012051;
+      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+      border-radius: 5px;
+      color: #fff
+    }
+
+    .room-panel-heading{
+      font-weight: 200;
+      font-size: 18px;
+      padding: 10px;
+      text-align: center;
+    }
+    .clearfix{
+      clear:both;
+    }
+    .room-card{
+      min-height: 165px;
+    }
+
+    .room-panel-list thead tr th{
+      text-align: left;
+    }
+    .room-panel-list tbody tr td{
+      padding: 10px;
+    }
+    .room-pane-list tbody tr td:not(:first-child){
+      color: red
+    }
+    .active-nav{
+      
+    }
+    .modal_default_form_item_tabular_plus{
+      display:none
+    }
+
+    .icon:before {
+      position: absolute;
+      margin: 0 auto;
+      top: 10px;
+      width: 14px;
+      height: 14px;
+      line-height: 14px;
+      display: block;
+      content: '';
+  }
+  
+  .icon-noshow:before { background-color: #d34e4e; }
+  .icon-arrived:before { background-color: #cb01fd; }
+  .icon-inexam:before { background-color: #a54e4e; }
+  .icon-completed:before { background-color: #d3964e;   }
+
+  .calendar_default_corner div{
+    display:none;
+  }
+
+  .trigger {
+    padding: 0 24px;
+    font-size: 24px;
+    line-height: 64px;
+    cursor: pointer;
+    transition: color 0.3s;
+    color: #fff;
+    float: right;
+    display: block;
+    margin-bottom: 20px;
+  }
+  
+ .trigger:hover {
+    color: #9ab8d4;
+  }
+  
+  .logo {
+    height: 70px;
+    margin: 70px 16px;
+    display: block;
+  }
+ 
+  .rbc-event, .rbc-day-slot .rbc-background-event{
+    background-color: #ffffff;
+    color: #000000;
+    border-radius: 0px;
+    border-left: 6px solid #2e78d6 !important
+  }
+  .ev-cancelled .rbc-event{
+    border-left: 6px solid #1294f2 !important
+  }
+  .ev-noshow .rbc-event{
+    border-left: 6px solid #d34e4e !important
+  }
+  .ev-completed .rbc-event{
+    border-left: 6px solid #d3964e !important
+  }
+  .ev-booked .rbc-event{
+    border-left: 6px solid #59d34e !important
+  }
+  .ev-inexam .rbc-event{
+    border-left: 6px solid #a54e4e !important
+  }
+  .ev-arrived .rbc-event{
+    border-left: 6px solid #cb01fd !important
+  }
+
+  .rbc-allday-cell{
+    display: none;
+  }
+
+  .rbc-row.rbc-row-resource .rbc-header{
+    padding: 10px
+  }
+
+  .ant-drawer-inline{
+    position: fixed;
+  }
+
+  .rbc-event.rbc-selected
+  {
+    background-color: #fff;
+  }
+
+  .ev-selected .rbc-event{
+    background-color: #003F88;
+    color: #fff;
+  }
+
+  .ev-component .rbc-event{
+    border: 2px solid #1356c3 !important;
+  }
+
+  .title{
+    font-size:medium;
+    margin-right: 6px;
+    text-decoration: underline;
+  }
+
+  .sub-text{
+    font-size:medium;
+  }
+
+
+  @mixin long-shadow($type, $color, $length, $fadeout: true, $skew: false, $direction: right){
+    $shadow: '';
+    @if $skew == false or $type == text{
+      @if $direction == right {
+        @for $i from 0 to $length - 1 {
+          $shadow: $shadow + $i + 'px ' + $i + 'px 0 ' + $color + ',';
+        }
+      }
+      @if $direction == left {
+        @for $i from 0 to $length - 1 {
+          $shadow: $shadow + $i * -1 + 'px ' + $i + 'px 0 ' + $color + ',';
+         }
+        }
+       }
+          
+     @if $fadeout == true{
+      @for $i from 1 to $length - 1 {
+        @if $type == text or $skew == false{
+          @if $direction == right{
+            $shadow: $shadow + $i + 'px ' + $i + 'px 0 ' +       rgba($color, 1 - $i / $length) + ',';
+          }
+          @if $direction == left{
+            $shadow: $shadow + $i * -1 + 'px ' + $i + 'px 0 ' +       rgba($color, 1 - $i / $length) + ',';
+          }
+        }
+        @if ($type == box) and $skew == true{
+          @if $direction == right {
+            $shadow: $shadow + $i + 'px ' + $i + 'px 0 ' + $i * .2 + 'px ' + rgba($color, 1 - $i / $length) + ',';
+          }
+          @if $direction == left {
+            $shadow: $shadow + $i * -1 + 'px ' + $i + 'px 0 ' + $i * .2 + 'px ' + rgba($color, 1 - $i / $length) + ',';
+          }
+        }
+    }
+    $shadow: $shadow + $length + 'px ' + $length + 'px 0 ' + rgba($color, 0);
+   }
+   @if $fadeout == false{
+     @if $skew == true and ( $type == box ){
+       @for $i from 0 to $length - 1 {
+              $shadow: $shadow + $i + 'px ' + $i + 'px 0 ' + $i * .1 + 'px ' + $color + ',';
+        }
+     }
+      $shadow: $shadow + $length + 'px ' + $length + 'px 0 ' + rgba(0,0,0,0);
+   }
+   $shadow: unquote($shadow);
+    @if $type == 'box' {box-shadow: $shadow;}
+    @if $type == 'text' {text-shadow: $shadow;}
+  }
+
+  .long-shadow{
+    @include long-shadow(box, '#888', 200, false, true, right);;
+  }
+  .active-selection-ts{
+    background-color: #012051;
+    color: #fff;
+  }
+  .do-not-select{
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+  }
+  li.ant-dropdown-menu-item-only-child.active{
+    background-color: #003F88;
+  }
+  li.ant-dropdown-menu-item-only-child.active:hover .ant-dropdown-menu-title-content{
+    color: inherit
+  }
+  li.ant-dropdown-menu-item-only-child.active .ant-dropdown-menu-title-content{
+    color: #fff;
+  }
+  .Toastify__toast-container {    
+    width: 400px;
+  }
+  .Toastify__toast-body {
+    font-family: "Acme Regular", Roboto, Helvetica, sans-serif;
+    color: rgba(0, 63, 136, 0.88);
+  }

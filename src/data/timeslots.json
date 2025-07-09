@@ -1,0 +1,3553 @@
+{
+  "timeslots": {
+    "TimeSlot": [
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmP9QAI",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "22:02:35.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "22:02:35.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-15",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmRoQAI",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "22:02:58.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "22:02:58.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-15",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmRKQAY",
+        "status": "Available",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "04:30:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "05:00:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": "492ee7dc-7d43-4bf3-ba5c-34956c95d0af",
+        "city": "toronto",
+        "appointmentDate": "2023-05-15",
+        "Appointment": [
+          {
+            "timeslotId": "a0m2M000043cmRKQAY",
+            "status": "Booked",
+            "providerId": null,
+            "product": "01t2M00000EwPORQA3",
+            "patient": [
+              {
+                "PhoneNumber": "456789",
+                "PatientId": "a0t2M00000ZJnjuQAD",
+                "location": {
+                  "province": "Ontario",
+                  "postalCode": "M1T3P5",
+                  "geoLocation": "",
+                  "country": "Canada",
+                  "city": "Brampton",
+                  "addressLine2": " ",
+                  "addressLine1": "23 Adward Street"
+                },
+                "LastName": "nicki",
+                "HealthCardNumber": "123456",
+                "Gender": "Female",
+                "FirstName": "tesla",
+                "email": "test@gmail.com",
+                "DOB": "2023-03-23",
+                "DMLOperationPatient": null
+              }
+            ],
+            "examRoom": null,
+            "DMLOperationAppointment": null,
+            "description": null,
+            "correlationId": "492ee7dc-7d43-4bf3-ba5c-34956c95d0af",
+            "conferencePhoneNumber": null,
+            "conferenceLink": null,
+            "conferenceId": null,
+            "AppointmentStartTime": null,
+            "appointmentId": "a0p2M00000FxPgKQAV",
+            "AppointmentEndTime": null
+          }
+        ]
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": null,
+        "timeslotId": "a0m2M000043cjbyQAA",
+        "status": "Available",
+        "station": {
+          "stationName": null,
+          "StationId": null,
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "16:00:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMaQAN",
+        "endtime": "16:15:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "Phone",
+        "correlationIds": "12345678901234567890123456789012",
+        "city": "Toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmM8QAI",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "21:28:12.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "21:28:12.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-15",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmM9QAI",
+        "status": "Available",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "04:45:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMaQAN",
+        "endtime": "05:15:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": "c72c573a-c3d9-4c25-bc08-35a4bd75c148",
+        "city": "toronto",
+        "appointmentDate": "2023-05-15",
+        "Appointment": [
+          {
+            "timeslotId": "a0m2M000043cmM9QAI",
+            "status": "Booked",
+            "providerId": null,
+            "product": "01t2M00000EwPORQA3",
+            "patient": [
+              {
+                "PhoneNumber": "456789",
+                "PatientId": "a0t2M00000ZJnjuQAD",
+                "location": {
+                  "province": "Ontario",
+                  "postalCode": "M1T3P5",
+                  "geoLocation": "",
+                  "country": "Canada",
+                  "city": "Brampton",
+                  "addressLine2": " ",
+                  "addressLine1": "23 Adward Street"
+                },
+                "LastName": "nicki",
+                "HealthCardNumber": "123456",
+                "Gender": "Female",
+                "FirstName": "tesla",
+                "email": "test@gmail.com",
+                "DOB": "2023-03-23",
+                "DMLOperationPatient": null
+              }
+            ],
+            "examRoom": null,
+            "DMLOperationAppointment": null,
+            "description": null,
+            "correlationId": "c72c573a-c3d9-4c25-bc08-35a4bd75c148",
+            "conferencePhoneNumber": null,
+            "conferenceLink": null,
+            "conferenceId": null,
+            "AppointmentStartTime": null,
+            "appointmentId": "a0p2M00000FxPgFQAV",
+            "AppointmentEndTime": null
+          }
+        ]
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmMAQAY",
+        "status": "Available",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "04:30:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "04:45:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "online",
+        "correlationIds": "3ae383ab-6aad-4b60-ae53-3d9b62f28773",
+        "city": "toronto",
+        "appointmentDate": "2023-05-15",
+        "Appointment": [
+          {
+            "timeslotId": "a0m2M000043cmMAQAY",
+            "status": "Booked",
+            "providerId": null,
+            "product": "01t2M00000EwPORQA3",
+            "patient": [
+              {
+                "PhoneNumber": "456789",
+                "PatientId": "a0t2M00000ZJnjuQAD",
+                "location": {
+                  "province": "Ontario",
+                  "postalCode": "M1T3P5",
+                  "geoLocation": "",
+                  "country": "Canada",
+                  "city": "Brampton",
+                  "addressLine2": " ",
+                  "addressLine1": "23 Adward Street"
+                },
+                "LastName": "nicki",
+                "HealthCardNumber": "123456",
+                "Gender": "Female",
+                "FirstName": "tesla",
+                "email": "test@gmail.com",
+                "DOB": "2023-03-23",
+                "DMLOperationPatient": null
+              }
+            ],
+            "examRoom": null,
+            "DMLOperationAppointment": null,
+            "description": "vbnm,",
+            "correlationId": "3ae383ab-6aad-4b60-ae53-3d9b62f28773",
+            "conferencePhoneNumber": null,
+            "conferenceLink": null,
+            "conferenceId": null,
+            "AppointmentStartTime": "00:45:00.000Z",
+            "appointmentId": "a0p2M00000FxPgPQAV",
+            "AppointmentEndTime": "01:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmMBQAY",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "21:28:12.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "21:28:12.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-15",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmMCQAY",
+        "status": "Available",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "06:15:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMUQA3",
+        "endtime": "06:45:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": "56345739-d6e3-4498-a375-06e3eff93a87",
+        "city": "toronto",
+        "appointmentDate": "2023-05-15",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmMDQAY",
+        "status": "Available",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "05:45:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMUQA3",
+        "endtime": "05:45:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": "c95fc85e-7154-40d6-9da0-d52168b6758d",
+        "city": "toronto",
+        "appointmentDate": "2023-05-15",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmMEQAY",
+        "status": "Available",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "05:45:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMaQAN",
+        "endtime": "06:15:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": "76f5157f-c5fe-46d2-aaa7-6c0f5860b2d0",
+        "city": "toronto",
+        "appointmentDate": "2023-05-15",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmMFQAY",
+        "status": "Available",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "04:15:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMUQA3",
+        "endtime": "04:30:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": "e4d2c70f-4e93-4fa4-8cd5-29690e3bf3b5",
+        "city": "toronto",
+        "appointmentDate": "2023-05-15",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmMPQAY",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "21:28:12.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "21:28:12.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-15",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmMQQAY",
+        "status": "Available",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "04:15:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMZQA3",
+        "endtime": "04:45:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": "9110c7c7-e981-41cd-a198-066295c76a5f",
+        "city": "toronto",
+        "appointmentDate": "2023-05-15",
+        "Appointment": [
+          {
+            "timeslotId": "a0m2M000043cmMQQAY",
+            "status": "Booked",
+            "providerId": null,
+            "product": "01t2M00000EwPORQA3",
+            "patient": [
+              {
+                "PhoneNumber": "3456789",
+                "PatientId": "a0t2M00000a8taUQAQ",
+                "location": {
+                  "province": "Ontario",
+                  "postalCode": "M1T3P5",
+                  "geoLocation": "",
+                  "country": "Canada",
+                  "city": "Brampton",
+                  "addressLine2": " ",
+                  "addressLine1": "23 Adward Street"
+                },
+                "LastName": "test",
+                "HealthCardNumber": "123456789",
+                "Gender": "Male",
+                "FirstName": "Amir",
+                "email": "amirtest@gmail.com",
+                "DOB": "2010-04-18",
+                "DMLOperationPatient": null
+              }
+            ],
+            "examRoom": null,
+            "DMLOperationAppointment": null,
+            "description": null,
+            "correlationId": "9110c7c7-e981-41cd-a198-066295c76a5f",
+            "conferencePhoneNumber": null,
+            "conferenceLink": null,
+            "conferenceId": null,
+            "AppointmentStartTime": null,
+            "appointmentId": "a0p2M00000FxPg5QAF",
+            "AppointmentEndTime": null
+          }
+        ]
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmNsQAI",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "22:02:58.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "22:02:58.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-15",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmNtQAI",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "22:02:35.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "22:02:35.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-15",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmNwQAI",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "21:29:51.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMaQAN",
+        "endtime": "21:29:51.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-15",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmNxQAI",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "21:29:51.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMaQAN",
+        "endtime": "21:29:51.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-15",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmNyQAI",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "21:29:51.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMaQAN",
+        "endtime": "21:29:51.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-15",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmNzQAI",
+        "status": "Available",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "05:30:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMUQA3",
+        "endtime": "05:45:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": "9be1ac0d-7aa6-43db-a04c-8c82f1e855bd",
+        "city": "toronto",
+        "appointmentDate": "2023-05-15",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmNrQAI",
+        "status": "Available",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "04:15:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMUQA3",
+        "endtime": "04:30:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": "6e2318b2-0b77-4f3e-b9f6-7ab64ae9cb79",
+        "city": "toronto",
+        "appointmentDate": "2023-05-15",
+        "Appointment": [
+          {
+            "timeslotId": "a0m2M000043cmNrQAI",
+            "status": "Booked",
+            "providerId": null,
+            "product": "01t2M00000EwPORQA3",
+            "patient": [
+              {
+                "PhoneNumber": "3456789",
+                "PatientId": "a0t2M00000a8taUQAQ",
+                "location": {
+                  "province": "Ontario",
+                  "postalCode": "M1T3P5",
+                  "geoLocation": "",
+                  "country": "Canada",
+                  "city": "Brampton",
+                  "addressLine2": " ",
+                  "addressLine1": "23 Adward Street"
+                },
+                "LastName": "test",
+                "HealthCardNumber": "123456789",
+                "Gender": "Male",
+                "FirstName": "Amir",
+                "email": "amirtest@gmail.com",
+                "DOB": "2010-04-18",
+                "DMLOperationPatient": null
+              }
+            ],
+            "examRoom": null,
+            "DMLOperationAppointment": null,
+            "description": null,
+            "correlationId": "6e2318b2-0b77-4f3e-b9f6-7ab64ae9cb79",
+            "conferencePhoneNumber": null,
+            "conferenceLink": null,
+            "conferenceId": null,
+            "AppointmentStartTime": null,
+            "appointmentId": "a0p2M00000FxPgAQAV",
+            "AppointmentEndTime": null
+          }
+        ]
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043ckr8QAA",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "22:03:29.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMaQAN",
+        "endtime": "22:03:29.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-15",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043ckr9QAA",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "22:03:29.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMaQAN",
+        "endtime": "22:03:29.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-15",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043ckrAQAQ",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "04:30:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6J5zQAF",
+        "endtime": "04:45:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "online",
+        "correlationIds": "b1271118-6d4c-467a-aab6-92d88d995ea7",
+        "city": "toronto",
+        "appointmentDate": "2023-05-12",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043ckrBQAQ",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "04:45:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6J5zQAF",
+        "endtime": "05:00:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "online",
+        "correlationIds": "865fd3c0-9d81-4707-8dc4-11c7abd86c38",
+        "city": "toronto",
+        "appointmentDate": "2023-05-12",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043ckrCQAQ",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "05:00:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6J5zQAF",
+        "endtime": "05:15:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "online",
+        "correlationIds": "36c23891-f9e7-4231-bfa3-1e281a5b9602",
+        "city": "toronto",
+        "appointmentDate": "2023-05-12",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043ckrDQAQ",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "05:15:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6J5zQAF",
+        "endtime": "05:30:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "online",
+        "correlationIds": "27512085-26a4-414f-9c3e-7c802a4c7ef1",
+        "city": "toronto",
+        "appointmentDate": "2023-05-12",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjnsQAA",
+        "status": "Available",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "04:30:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMaQAN",
+        "endtime": "04:45:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": "efda1a4b-d0c3-4222-8bd8-0f71613d9056",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjntQAA",
+        "status": "Available",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "04:45:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMaQAN",
+        "endtime": "05:00:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": "3e517101-1e1e-4d0a-b007-8b2ecba92b22",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": [
+          {
+            "timeslotId": "a0m2M000043cjntQAA",
+            "status": "Booked",
+            "providerId": null,
+            "product": "01t2M00000EwPORQA3",
+            "patient": [
+              {
+                "PhoneNumber": "456789",
+                "PatientId": "a0t2M00000ZJnjuQAD",
+                "location": {
+                  "province": "Ontario",
+                  "postalCode": "M1T3P5",
+                  "geoLocation": "",
+                  "country": "Canada",
+                  "city": "Brampton",
+                  "addressLine2": " ",
+                  "addressLine1": "23 Adward Street"
+                },
+                "LastName": "nicki",
+                "HealthCardNumber": "123456",
+                "Gender": "Female",
+                "FirstName": "tesla",
+                "email": "test@gmail.com",
+                "DOB": "2023-03-23",
+                "DMLOperationPatient": null
+              }
+            ],
+            "examRoom": null,
+            "DMLOperationAppointment": null,
+            "description": "vbn",
+            "correlationId": "3e517101-1e1e-4d0a-b007-8b2ecba92b22",
+            "conferencePhoneNumber": null,
+            "conferenceLink": null,
+            "conferenceId": null,
+            "AppointmentStartTime": "00:45:00.000Z",
+            "appointmentId": "a0p2M00000FxOxWQAV",
+            "AppointmentEndTime": "01:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjnuQAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "05:00:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMaQAN",
+        "endtime": "05:15:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "88cbc760-84a5-4831-b36a-885a76066ec7",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjnvQAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "05:15:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMaQAN",
+        "endtime": "05:30:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "a563f714-2bf3-42c7-a7cd-0dd778b79eca",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjnwQAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "05:30:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMaQAN",
+        "endtime": "05:45:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "3e5a7825-427e-4cd4-b29c-0307d46c3ce7",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": [
+          {
+            "timeslotId": "a0m2M000043cjnwQAA",
+            "status": "Booked",
+            "providerId": null,
+            "product": "01t2M00000EwPORQA3",
+            "patient": [
+              {
+                "PhoneNumber": "3456789",
+                "PatientId": "a0t2M00000a8taUQAQ",
+                "location": {
+                  "province": "Ontario",
+                  "postalCode": "M1T3P5",
+                  "geoLocation": "",
+                  "country": "Canada",
+                  "city": "Brampton",
+                  "addressLine2": " ",
+                  "addressLine1": "23 Adward Street"
+                },
+                "LastName": "test",
+                "HealthCardNumber": "123456789",
+                "Gender": "Male",
+                "FirstName": "Amir",
+                "email": "amirtest@gmail.com",
+                "DOB": "2010-04-18",
+                "DMLOperationPatient": null
+              }
+            ],
+            "examRoom": null,
+            "DMLOperationAppointment": null,
+            "description": "vhj",
+            "correlationId": "3e5a7825-427e-4cd4-b29c-0307d46c3ce7",
+            "conferencePhoneNumber": null,
+            "conferenceLink": null,
+            "conferenceId": null,
+            "AppointmentStartTime": "01:30:00.000Z",
+            "appointmentId": "a0p2M00000FxOxMQAV",
+            "AppointmentEndTime": "01:45:00.000Z"
+          }
+        ]
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjwVQAQ",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "07:00:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMaQAN",
+        "endtime": "07:15:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "ed1cc481-c985-4f1e-8e64-a596426d0e4a",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjvrQAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "06:30:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMUQA3",
+        "endtime": "06:45:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "06aadea4-03d2-42a6-bd0c-465ad4cec137",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjwQQAQ",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "06:45:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "07:00:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "bb20e960-cf84-4c5a-b32c-e5df1d71048a",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjtCQAQ",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "04:30:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMZQA3",
+        "endtime": "04:45:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "fd4f96f8-f8e7-4833-b4d9-0c9a1fa1788f",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cju0QAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "04:15:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMUQA3",
+        "endtime": "04:30:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "6afcfc65-bab7-4b6d-82fc-5b232c78b4a1",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmg4QAA",
+        "status": "Available",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "04:00:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6J5zQAF",
+        "endtime": "04:15:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "online",
+        "correlationIds": "316f67ca-7633-4da8-9d88-783e28263c02",
+        "city": "toronto",
+        "appointmentDate": "2023-05-16",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmg5QAA",
+        "status": "Available",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "00:30:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6J5zQAF",
+        "endtime": "04:30:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": "e3fa0d44-c40d-42d0-8345-490593521627",
+        "city": "toronto",
+        "appointmentDate": "2023-05-16",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmg6QAA",
+        "status": "Available",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "04:30:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6J5zQAF",
+        "endtime": "04:45:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": "91de1f09-5b0f-4b71-aaaf-fe937b5e88c8",
+        "city": "toronto",
+        "appointmentDate": "2023-05-16",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmg7QAA",
+        "status": "Available",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "04:45:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6J5zQAF",
+        "endtime": "05:00:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": "b7d0ce89-dfe2-4468-90f2-0a9674c997b9",
+        "city": "toronto",
+        "appointmentDate": "2023-05-16",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwNYMQA3",
+            "ProductDuration": "15",
+            "Name": "BloodTest",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjovQAA",
+        "status": "Available",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "04:30:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "04:45:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": "d045a7fd-f9ad-4d4b-8aab-0c834f2fef68",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwNYMQA3",
+            "ProductDuration": "15",
+            "Name": "BloodTest",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjowQAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "04:45:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "05:00:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "2418bb5e-3ff0-4011-b38d-0dd1671f40a4",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwNYMQA3",
+            "ProductDuration": "15",
+            "Name": "BloodTest",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjoxQAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "05:00:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "05:15:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "af374f6f-142b-4590-aee5-c1bed8152287",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwNYMQA3",
+            "ProductDuration": "15",
+            "Name": "BloodTest",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjoyQAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "05:15:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "05:30:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "004a2f48-2759-4334-a0c5-6df398e57600",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjppQAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "06:15:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMaQAN",
+        "endtime": "06:30:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "f6661997-4a4a-4776-9a54-66d6b4dae4e1",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": [
+          {
+            "timeslotId": "a0m2M000043cjppQAA",
+            "status": "Booked",
+            "providerId": null,
+            "product": "01t2M00000EwPORQA3",
+            "patient": [
+              {
+                "PhoneNumber": "3456789",
+                "PatientId": "a0t2M00000a8taUQAQ",
+                "location": {
+                  "province": "Ontario",
+                  "postalCode": "M1T3P5",
+                  "geoLocation": "",
+                  "country": "Canada",
+                  "city": "Brampton",
+                  "addressLine2": " ",
+                  "addressLine1": "23 Adward Street"
+                },
+                "LastName": "test",
+                "HealthCardNumber": "123456789",
+                "Gender": "Male",
+                "FirstName": "Amir",
+                "email": "amirtest@gmail.com",
+                "DOB": "2010-04-18",
+                "DMLOperationPatient": null
+              }
+            ],
+            "examRoom": null,
+            "DMLOperationAppointment": null,
+            "description": "vcx",
+            "correlationId": "f6661997-4a4a-4776-9a54-66d6b4dae4e1",
+            "conferencePhoneNumber": null,
+            "conferenceLink": null,
+            "conferenceId": null,
+            "AppointmentStartTime": "02:15:00.000Z",
+            "appointmentId": "a0p2M00000FxOxRQAV",
+            "AppointmentEndTime": "02:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjpqQAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "06:30:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMaQAN",
+        "endtime": "06:45:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "f797c2fd-772a-47ad-bace-af22296ace38",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjpoQAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "06:00:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMaQAN",
+        "endtime": "06:15:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "40e7e9f6-b3a0-4e75-8b2a-92d21e44ed87",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": [
+          {
+            "timeslotId": "a0m2M000043cjpoQAA",
+            "status": "Booked",
+            "providerId": null,
+            "product": "01t41000000XQxXAAW",
+            "patient": [
+              {
+                "PhoneNumber": "3456789",
+                "PatientId": "a0t2M00000a8taUQAQ",
+                "location": {
+                  "province": "Ontario",
+                  "postalCode": "M1T3P5",
+                  "geoLocation": "",
+                  "country": "Canada",
+                  "city": "Brampton",
+                  "addressLine2": " ",
+                  "addressLine1": "23 Adward Street"
+                },
+                "LastName": "test",
+                "HealthCardNumber": "123456789",
+                "Gender": "Male",
+                "FirstName": "Amir",
+                "email": "amirtest@gmail.com",
+                "DOB": "2010-04-18",
+                "DMLOperationPatient": null
+              }
+            ],
+            "examRoom": null,
+            "DMLOperationAppointment": null,
+            "description": "test",
+            "correlationId": "40e7e9f6-b3a0-4e75-8b2a-92d21e44ed87",
+            "conferencePhoneNumber": null,
+            "conferenceLink": null,
+            "conferenceId": null,
+            "AppointmentStartTime": "02:00:00.000Z",
+            "appointmentId": "a0p2M00000FxOx2QAF",
+            "AppointmentEndTime": "02:15:00.000Z"
+          }
+        ]
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cju1QAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "05:45:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMZQA3",
+        "endtime": "06:00:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "7873e221-40d7-4e9a-a164-8788ca424e1c",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cju2QAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "06:00:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMZQA3",
+        "endtime": "06:15:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "1fd08acd-9d81-4f8c-8b40-2d92d5c35749",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cju3QAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "06:15:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMZQA3",
+        "endtime": "06:30:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "cedc8db9-3c2a-436e-adde-42845dd09cfd",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwNYMQA3",
+            "ProductDuration": "15",
+            "Name": "BloodTest",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjuyQAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "05:15:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMUQA3",
+        "endtime": "05:30:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "cf01dfd6-1179-45c6-9d72-c46f711f7465",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwNYMQA3",
+            "ProductDuration": "15",
+            "Name": "BloodTest",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjuzQAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "05:30:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMUQA3",
+        "endtime": "05:45:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "991f86f7-7f0d-4abb-b276-ae9954436223",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjvNQAQ",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "05:45:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "06:00:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "e60c8b1b-a54a-4c21-9ea4-e20ac7aa2f4d",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjtgQAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "05:00:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMZQA3",
+        "endtime": "05:15:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "0462f6c6-6463-4a9f-a23e-5cc440ab5384",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjw1QAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "06:15:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "06:30:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "dbdfeb38-1875-4007-ab92-c23e7b2db120",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjwfQAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "07:15:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMZQA3",
+        "endtime": "07:30:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "4f11fbe9-3d14-4dc9-a454-7ec6d7473c1a",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjwaQAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "06:45:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMZQA3",
+        "endtime": "07:00:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "6644fc2b-b370-4b17-8244-52ae1e18fdfd",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjxJQAQ",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "08:30:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "08:45:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "82eba232-5798-4159-8220-dbec2a8592d9",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjx9QAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "07:00:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "07:15:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "075571bd-d7d8-4a15-9e03-dfba480f4cdb",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmlxQAA",
+        "status": "Available",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "04:00:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "04:15:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": "fdce5aed-bfa0-4d3f-8c97-974cca521c62",
+        "city": "toronto",
+        "appointmentDate": "2023-05-16",
+        "Appointment": [
+          {
+            "timeslotId": "a0m2M000043cmlxQAA",
+            "status": "Booked",
+            "providerId": null,
+            "product": "01t2M00000EwPYMQA3",
+            "patient": [
+              {
+                "PhoneNumber": "456789",
+                "PatientId": "a0t2M00000ZJnjuQAD",
+                "location": {
+                  "province": "Ontario",
+                  "postalCode": "M1T3P5",
+                  "geoLocation": "",
+                  "country": "Canada",
+                  "city": "Brampton",
+                  "addressLine2": " ",
+                  "addressLine1": "23 Adward Street"
+                },
+                "LastName": "nicki",
+                "HealthCardNumber": "123456",
+                "Gender": "Female",
+                "FirstName": "tesla",
+                "email": "test@gmail.com",
+                "DOB": "2023-03-23",
+                "DMLOperationPatient": null
+              }
+            ],
+            "examRoom": null,
+            "DMLOperationAppointment": null,
+            "description": null,
+            "correlationId": "fdce5aed-bfa0-4d3f-8c97-974cca521c62",
+            "conferencePhoneNumber": null,
+            "conferenceLink": null,
+            "conferenceId": null,
+            "AppointmentStartTime": null,
+            "appointmentId": "a0p2M00000FxPpeQAF",
+            "AppointmentEndTime": null
+          }
+        ]
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmlyQAA",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "16:11:32.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "16:11:32.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-16",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmlzQAA",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "16:11:32.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "16:11:32.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-16",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmm0QAA",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "16:11:32.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "16:11:32.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-16",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmm1QAA",
+        "status": "Available",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "05:00:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "05:30:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": "68bc304f-d7fe-4489-8aca-3aac16d6c762",
+        "city": "toronto",
+        "appointmentDate": "2023-05-16",
+        "Appointment": [
+          {
+            "timeslotId": "a0m2M000043cmm1QAA",
+            "status": "Booked",
+            "providerId": null,
+            "product": "01t2M00000EwPYMQA3",
+            "patient": [
+              {
+                "PhoneNumber": "456789",
+                "PatientId": "a0t2M00000ZJnjuQAD",
+                "location": {
+                  "province": "Ontario",
+                  "postalCode": "M1T3P5",
+                  "geoLocation": "",
+                  "country": "Canada",
+                  "city": "Brampton",
+                  "addressLine2": " ",
+                  "addressLine1": "23 Adward Street"
+                },
+                "LastName": "nicki",
+                "HealthCardNumber": "123456",
+                "Gender": "Female",
+                "FirstName": "tesla",
+                "email": "test@gmail.com",
+                "DOB": "2023-03-23",
+                "DMLOperationPatient": null
+              }
+            ],
+            "examRoom": null,
+            "DMLOperationAppointment": null,
+            "description": null,
+            "correlationId": "68bc304f-d7fe-4489-8aca-3aac16d6c762",
+            "conferencePhoneNumber": null,
+            "conferenceLink": null,
+            "conferenceId": null,
+            "AppointmentStartTime": null,
+            "appointmentId": "a0p2M00000FxPpPQAV",
+            "AppointmentEndTime": null
+          }
+        ]
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmm2QAA",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "16:12:34.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMZQA3",
+        "endtime": "16:12:34.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-16",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmm3QAA",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "16:12:34.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMZQA3",
+        "endtime": "16:12:34.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-16",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmm4QAA",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "16:12:34.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMZQA3",
+        "endtime": "16:12:34.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-16",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmm5QAA",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "16:12:34.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMZQA3",
+        "endtime": "16:12:34.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-16",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmm6QAA",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "16:12:34.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMZQA3",
+        "endtime": "16:12:34.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-16",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjwkQAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "07:30:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "07:45:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "c595f096-27dd-4f25-bd0e-82f4a0f094ec",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjwuQAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "08:00:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000STijMQAT",
+        "endtime": "08:15:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "3ce2fff0-ecf0-45b3-999a-80323ead1baf",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjwqQAA",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "07:45:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMaQAN",
+        "endtime": "08:00:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "bc89afb2-d241-435f-958a-3b4a5c6c3ee3",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t2M00000EwPYMQA3",
+            "ProductDuration": "15",
+            "Name": "Annual Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjxOQAQ",
+        "status": "Available",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "08:15:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMaQAN",
+        "endtime": "08:45:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": "b0939428-15a7-465b-9c59-1d1de7b63cd9",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjxTQAQ",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "07:00:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMUQA3",
+        "endtime": "07:15:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "a0503cd6-f108-4753-92dd-c16326558daa",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjxUQAQ",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "07:15:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMUQA3",
+        "endtime": "07:30:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "933f1bfe-4bcf-4ee3-a2f7-0655c77efd05",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjxVQAQ",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "07:30:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMUQA3",
+        "endtime": "07:45:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "bcfeda63-858d-4124-becd-f69b9a444424",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjxWQAQ",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "07:45:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMUQA3",
+        "endtime": "08:00:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "bb5ca3e7-e107-440e-92f0-2325659639c9",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          },
+          {
+            "productId": "01t41000000XQxXAAW",
+            "ProductDuration": "15",
+            "Name": "Massage",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cjxXQAQ",
+        "status": "Booked",
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "08:00:00.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMUQA3",
+        "endtime": "08:15:00.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": "inclinic",
+        "correlationIds": "fda50e0f-dd21-43b2-a890-c4117244a9ff",
+        "city": "toronto",
+        "appointmentDate": "2023-05-10",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmm7QAA",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "16:15:29.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6J5zQAF",
+        "endtime": "16:15:29.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-16",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmm8QAA",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "16:15:29.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6J5zQAF",
+        "endtime": "16:15:29.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-16",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwPORQA3",
+            "ProductDuration": "15",
+            "Name": "General Checkup",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmm9QAA",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "16:15:29.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6J5zQAF",
+        "endtime": "16:15:29.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-16",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwNYMQA3",
+            "ProductDuration": "15",
+            "Name": "BloodTest",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmmDQAQ",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "16:18:52.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMZQA3",
+        "endtime": "16:18:52.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-16",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwNYMQA3",
+            "ProductDuration": "15",
+            "Name": "BloodTest",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmmEQAQ",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "16:18:52.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMZQA3",
+        "endtime": "16:18:52.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-16",
+        "Appointment": null
+      },
+      {
+        "TotalDuration": 15,
+        "timeslotproducts": [
+          {
+            "productId": "01t2M00000EwNYMQA3",
+            "ProductDuration": "15",
+            "Name": "BloodTest",
+            "DMLOperationTimeslotProducts": null
+          }
+        ],
+        "timeslotId": "a0m2M000043cmmCQAQ",
+        "status": null,
+        "station": {
+          "stationName": "Toroto Xray",
+          "StationId": "a0u2M00000bGqhbQAC",
+          "DMLOperationStation": null,
+          "city": "toronto"
+        },
+        "startTime": "16:18:52.000Z",
+        "recordType": null,
+        "providerId": "a0q2M00000Q6PMZQA3",
+        "endtime": "16:18:52.000Z",
+        "DMLOperationTimeSlot": null,
+        "deliveryChannel": null,
+        "correlationIds": null,
+        "city": "toronto",
+        "appointmentDate": "2023-05-16",
+        "Appointment": null
+      }
+    ]
+  },
+  "provider": [
+    {
+      "timeSlotId": [
+        "a0m2M000043ckrAQAQ",
+        "a0m2M000043ckrBQAQ",
+        "a0m2M000043ckrCQAQ",
+        "a0m2M000043ckrDQAQ",
+        "a0m2M000043cmg4QAA",
+        "a0m2M000043cmg5QAA",
+        "a0m2M000043cmg6QAA",
+        "a0m2M000043cmg7QAA",
+        "a0m2M000043cmm7QAA",
+        "a0m2M000043cmm8QAA",
+        "a0m2M000043cmm9QAA"
+      ],
+      "speciality": "Oncologist",
+      "providerProducts": [
+        {
+          "ProviderProductsId": "a0r2M00000PFAg7QAH",
+          "productId": "01t2M00000EwPORQA3",
+          "ProductDuration": "15",
+          "Name": "General Checkup",
+          "DMLOperationProviderProducts": null
+        },
+        {
+          "ProviderProductsId": "a0r2M00000PF6a4QAD",
+          "productId": "01t2M00000EwPYMQA3",
+          "ProductDuration": "15",
+          "Name": "Annual Checkup",
+          "DMLOperationProviderProducts": null
+        },
+        {
+          "ProviderProductsId": "a0r2M00000PF77EQAT",
+          "productId": "01t41000000XQxXAAW",
+          "ProductDuration": "15",
+          "Name": "Massage",
+          "DMLOperationProviderProducts": null
+        },
+        {
+          "ProviderProductsId": "a0r2M00000PF8cRQAT",
+          "productId": "01t2M00000EwNYMQA3",
+          "ProductDuration": "15",
+          "Name": "BloodTest",
+          "DMLOperationProviderProducts": null
+        }
+      ],
+      "providerId": "a0q2M00000Q6J5zQAF",
+      "providerEmail": "tigerpaw@gmail.com",
+      "phoneNumber": "4567890",
+      "name": "Tiger Paw",
+      "location": {
+        "province": "Ontario",
+        "postalCode": "M1T3P5",
+        "geoLocation": "",
+        "country": "Canada",
+        "city": "Brampton",
+        "addressLine2": " ",
+        "addressLine1": "23 Adward Street"
+      },
+      "isActive": true,
+      "Gender": "Male",
+      "DMLOperationProvider": null
+    },
+    {
+      "timeSlotId": [
+        "a0m2M000043cmP9QAI",
+        "a0m2M000043cmRoQAI",
+        "a0m2M000043cmRKQAY",
+        "a0m2M000043cmM8QAI",
+        "a0m2M000043cmMAQAY",
+        "a0m2M000043cmMBQAY",
+        "a0m2M000043cmMPQAY",
+        "a0m2M000043cmNsQAI",
+        "a0m2M000043cmNtQAI",
+        "a0m2M000043cjwQQAQ",
+        "a0m2M000043cjovQAA",
+        "a0m2M000043cjowQAA",
+        "a0m2M000043cjoxQAA",
+        "a0m2M000043cjoyQAA",
+        "a0m2M000043cjvNQAQ",
+        "a0m2M000043cjw1QAA",
+        "a0m2M000043cjxJQAQ",
+        "a0m2M000043cjx9QAA",
+        "a0m2M000043cmlxQAA",
+        "a0m2M000043cmlyQAA",
+        "a0m2M000043cmlzQAA",
+        "a0m2M000043cmm0QAA",
+        "a0m2M000043cmm1QAA",
+        "a0m2M000043cjwkQAA",
+        "a0m2M000043cjwuQAA"
+      ],
+      "speciality": "Oncologists",
+      "providerProducts": [
+        {
+          "ProviderProductsId": "a0r2M00000PFAg7QAH",
+          "productId": "01t2M00000EwPORQA3",
+          "ProductDuration": "15",
+          "Name": "General Checkup",
+          "DMLOperationProviderProducts": null
+        },
+        {
+          "ProviderProductsId": "a0r2M00000PF6a4QAD",
+          "productId": "01t2M00000EwPYMQA3",
+          "ProductDuration": "15",
+          "Name": "Annual Checkup",
+          "DMLOperationProviderProducts": null
+        },
+        {
+          "ProviderProductsId": "a0r2M00000PF77EQAT",
+          "productId": "01t41000000XQxXAAW",
+          "ProductDuration": "15",
+          "Name": "Massage",
+          "DMLOperationProviderProducts": null
+        },
+        {
+          "ProviderProductsId": "a0r2M00000PF8cRQAT",
+          "productId": "01t2M00000EwNYMQA3",
+          "ProductDuration": "15",
+          "Name": "BloodTest",
+          "DMLOperationProviderProducts": null
+        }
+      ],
+      "providerId": "a0q2M00000STijMQAT",
+      "providerEmail": "peter@gmail.com",
+      "phoneNumber": null,
+      "name": "Peter",
+      "location": {
+        "province": "Ontario",
+        "postalCode": "M1T3P5",
+        "geoLocation": "",
+        "country": "Canada",
+        "city": "Brampton",
+        "addressLine2": " ",
+        "addressLine1": "23 Adward Street"
+      },
+      "isActive": true,
+      "Gender": "Male",
+      "DMLOperationProvider": null
+    },
+    {
+      "timeSlotId": [
+        "a0m2M000043cjbyQAA",
+        "a0m2M000043cmM9QAI",
+        "a0m2M000043cmMEQAY",
+        "a0m2M000043cmNwQAI",
+        "a0m2M000043cmNxQAI",
+        "a0m2M000043cmNyQAI",
+        "a0m2M000043ckr8QAA",
+        "a0m2M000043ckr9QAA",
+        "a0m2M000043cjnsQAA",
+        "a0m2M000043cjntQAA",
+        "a0m2M000043cjnuQAA",
+        "a0m2M000043cjnvQAA",
+        "a0m2M000043cjnwQAA",
+        "a0m2M000043cjwVQAQ",
+        "a0m2M000043cjppQAA",
+        "a0m2M000043cjpqQAA",
+        "a0m2M000043cjpoQAA",
+        "a0m2M000043cjwqQAA",
+        "a0m2M000043cjxOQAQ"
+      ],
+      "speciality": "Cardiologists",
+      "providerProducts": [
+        {
+          "ProviderProductsId": "a0r2M00000PFAg7QAH",
+          "productId": "01t2M00000EwPORQA3",
+          "ProductDuration": "15",
+          "Name": "General Checkup",
+          "DMLOperationProviderProducts": null
+        },
+        {
+          "ProviderProductsId": "a0r2M00000PF6a4QAD",
+          "productId": "01t2M00000EwPYMQA3",
+          "ProductDuration": "15",
+          "Name": "Annual Checkup",
+          "DMLOperationProviderProducts": null
+        },
+        {
+          "ProviderProductsId": "a0r2M00000PF77EQAT",
+          "productId": "01t41000000XQxXAAW",
+          "ProductDuration": "15",
+          "Name": "Massage",
+          "DMLOperationProviderProducts": null
+        },
+        {
+          "ProviderProductsId": "a0r2M00000PF8cRQAT",
+          "productId": "01t2M00000EwNYMQA3",
+          "ProductDuration": "15",
+          "Name": "BloodTest",
+          "DMLOperationProviderProducts": null
+        }
+      ],
+      "providerId": "a0q2M00000Q6PMaQAN",
+      "providerEmail": "ammatest@gmail.com.ua",
+      "phoneNumber": "567890",
+      "name": "Dr.AMMA",
+      "location": {
+        "province": "Ontario",
+        "postalCode": "M1T3P5",
+        "geoLocation": "",
+        "country": "Canada",
+        "city": "Brampton",
+        "addressLine2": " ",
+        "addressLine1": "23 Adward Street"
+      },
+      "isActive": true,
+      "Gender": null,
+      "DMLOperationProvider": null
+    },
+    {
+      "timeSlotId": [
+        "a0m2M000043cmMQQAY",
+        "a0m2M000043cjtCQAQ",
+        "a0m2M000043cju1QAA",
+        "a0m2M000043cju2QAA",
+        "a0m2M000043cju3QAA",
+        "a0m2M000043cjtgQAA",
+        "a0m2M000043cjwfQAA",
+        "a0m2M000043cjwaQAA",
+        "a0m2M000043cmm2QAA",
+        "a0m2M000043cmm3QAA",
+        "a0m2M000043cmm4QAA",
+        "a0m2M000043cmm5QAA",
+        "a0m2M000043cmm6QAA",
+        "a0m2M000043cmmDQAQ",
+        "a0m2M000043cmmEQAQ",
+        "a0m2M000043cmmCQAQ"
+      ],
+      "speciality": "Neurologists",
+      "providerProducts": [
+        {
+          "ProviderProductsId": "a0r2M00000PFAg7QAH",
+          "productId": "01t2M00000EwPORQA3",
+          "ProductDuration": "15",
+          "Name": "General Checkup",
+          "DMLOperationProviderProducts": null
+        },
+        {
+          "ProviderProductsId": "a0r2M00000PF6a4QAD",
+          "productId": "01t2M00000EwPYMQA3",
+          "ProductDuration": "15",
+          "Name": "Annual Checkup",
+          "DMLOperationProviderProducts": null
+        },
+        {
+          "ProviderProductsId": "a0r2M00000PF77EQAT",
+          "productId": "01t41000000XQxXAAW",
+          "ProductDuration": "15",
+          "Name": "Massage",
+          "DMLOperationProviderProducts": null
+        },
+        {
+          "ProviderProductsId": "a0r2M00000PF8cRQAT",
+          "productId": "01t2M00000EwNYMQA3",
+          "ProductDuration": "15",
+          "Name": "BloodTest",
+          "DMLOperationProviderProducts": null
+        }
+      ],
+      "providerId": "a0q2M00000Q6PMZQA3",
+      "providerEmail": "jhonadftqtest@gmail.com",
+      "phoneNumber": "456789o0p",
+      "name": "Dr. Jhon",
+      "location": {
+        "province": "Ontario",
+        "postalCode": "M1T3P5",
+        "geoLocation": "",
+        "country": "Canada",
+        "city": "Brampton",
+        "addressLine2": " ",
+        "addressLine1": "23 Adward Street"
+      },
+      "isActive": true,
+      "Gender": "Female",
+      "DMLOperationProvider": null
+    },
+    {
+      "timeSlotId": [
+        "a0m2M000043cmMCQAY",
+        "a0m2M000043cmMDQAY",
+        "a0m2M000043cmMFQAY",
+        "a0m2M000043cmNzQAI",
+        "a0m2M000043cmNrQAI",
+        "a0m2M000043cjvrQAA",
+        "a0m2M000043cju0QAA",
+        "a0m2M000043cjuyQAA",
+        "a0m2M000043cjuzQAA",
+        "a0m2M000043cjxTQAQ",
+        "a0m2M000043cjxUQAQ",
+        "a0m2M000043cjxVQAQ",
+        "a0m2M000043cjxWQAQ",
+        "a0m2M000043cjxXQAQ"
+      ],
+      "speciality": "Oncologists",
+      "providerProducts": [
+        {
+          "ProviderProductsId": "a0r2M00000PFAg7QAH",
+          "productId": "01t2M00000EwPORQA3",
+          "ProductDuration": "15",
+          "Name": "General Checkup",
+          "DMLOperationProviderProducts": null
+        },
+        {
+          "ProviderProductsId": "a0r2M00000PF6a4QAD",
+          "productId": "01t2M00000EwPYMQA3",
+          "ProductDuration": "15",
+          "Name": "Annual Checkup",
+          "DMLOperationProviderProducts": null
+        },
+        {
+          "ProviderProductsId": "a0r2M00000PF77EQAT",
+          "productId": "01t41000000XQxXAAW",
+          "ProductDuration": "15",
+          "Name": "Massage",
+          "DMLOperationProviderProducts": null
+        },
+        {
+          "ProviderProductsId": "a0r2M00000PF8cRQAT",
+          "productId": "01t2M00000EwNYMQA3",
+          "ProductDuration": "15",
+          "Name": "BloodTest",
+          "DMLOperationProviderProducts": null
+        }
+      ],
+      "providerId": "a0q2M00000Q6PMUQA3",
+      "providerEmail": "karantest1234@gmail.com",
+      "phoneNumber": "56789045",
+      "name": "Doctor Karan",
+      "location": {
+        "province": "Ontario",
+        "postalCode": "M1T3P5",
+        "geoLocation": "",
+        "country": "Canada",
+        "city": "Brampton",
+        "addressLine2": " ",
+        "addressLine1": "23 Adward Street"
+      },
+      "isActive": true,
+      "Gender": "Male",
+      "DMLOperationProvider": null
+    }
+  ]
+}

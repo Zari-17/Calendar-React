@@ -1,0 +1,68 @@
+import React, { useState } from 'react';
+
+function Calendar() {
+  const [dragging, setDragging] = useState(false);
+  const [position, setPosition] = useState({ x: 0, y: 0 });
+
+  const handleMouseDown = (e:any) => {
+    e.preventDefault();
+    setDragging(true);
+  };
+
+  const handleMouseMove = (e:any) => {
+    if (!dragging) return;
+
+    setPosition({
+      x: e.clientX,
+      y: e.clientY,
+    });
+  };
+
+  const handleMouseUp = () => {
+    setDragging(false);
+  };
+
+  return (
+    <div
+      style={{ position: 'relative', height: '500px' }}
+      onMouseMove={handleMouseMove}
+      onMouseUp={handleMouseUp}
+    >
+      <div
+        style={{
+          position: 'absolute',
+          top: position.y,
+          left: position.x,
+          width: '100px',
+          height: '100px',
+          background: 'blue',
+        }}
+        onMouseDown={handleMouseDown}
+      />
+
+      <div
+        style={{
+          position: 'absolute',
+          top: position.y + 120,
+          left: position.x + 120,
+          width: '100px',
+          height: '100px',
+          background: 'red',
+        }}
+      />
+
+      <div
+        style={{
+          position: 'absolute',
+          top: position.y + 240,
+          left: position.x + 240,
+          width: '100px',
+          height: '100px',
+          background: 'green',
+        }}
+      />
+    </div>
+  );
+}
+
+export default Calendar
